@@ -1,0 +1,14 @@
+{
+  "name": "endpoint",
+  "version": "1.0.0",
+  "description": "depend",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "end"
+  ],
+  "author": "trust",
+  "license": "ISC"
+}
